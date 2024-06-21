@@ -2,7 +2,7 @@ https://github.com/kimgijun22/kimgijun22.github.io
 
 http://127.0.0.1:5500/myhomepage/myhomepage.html
 
-https://github.com/kimgijun22/----/tree/main/myhomepage
+https://github.com/kimgijun22/----/tree/main/myhomepage (이거 따로 올린 이유는 첫번째에 주소에 html이랑 css는 파일은 있지만 사진파일이 따로 연결이 안되어 있어 이주소도 추가로 적었습니다)
 
 제 홈페이지에 대해 설명을 해보도록 하겠습니다.
 일단 테마는 제가 스스로 만들었습니다.
